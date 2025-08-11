@@ -1,2 +1,2 @@
 # Hospital-Emergency-Room-Dashboard
-Hospital Emergency Room Excel Dashboard
+This Excel dashboard analyzes emergency room patient data to help hospital staff monitor performance and improve service delivery. It includes interactive slicers, KPI cards, and charts to track gender distribution, admission status, referral sources, and on-time patient handling. I cleaned and structured raw data, designed visuals for clarity, and focused on making insights actionable for healthcare decision-makers.
